@@ -9,5 +9,6 @@ public class DinosaurSupervisor
 
         t_rex.roar();
         velociraptor.roar();
+        System.out.println();
     }
 }
